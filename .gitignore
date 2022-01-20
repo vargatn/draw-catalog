@@ -1,0 +1,14 @@
+*.idea
+*.swp
+*.pyc
+*.cache
+.pytest_cache
+TempdirFactory
+xpipe.egg-info
+
+venv
+build
+dist
+files.txt
+settings/params*.yml
+settings/inputs.yml
